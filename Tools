@@ -1,0 +1,23 @@
+## Understanding EvilProxy
+Introduction
+
+What is EvilProxy?
+Advanced phishing tool that enables attackers to bypass two-factor authentication (2FA) and Multi-Factor Authentication (MFA). It acts as a reverse proxy, intercepting and manipulating traffic between a user and a legitimate service to capture credentials and session tokens.
+
+## Repository Contents
+
+Research:
+Navigate to the Tutorials folder for introductory guides on EvilProxy.
+Explore the Research Papers section for in-depth technical insights.
+Check out the Tools and Scripts section for practical resources.
+We encourage contributions and collaborations. If you have research, tools, or insights related to EvilProxy, please follow these guidelines to contribute:
+
+Fork the Repository: Create your own fork of the project.
+Create a Feature Branch: Make your changes in a new branch.
+Submit a Pull Request: Submit your contributions for review.
+
+## Resources
+
+For queries and support, please reach out to www.rencora.com
+
+Learn More: https://medium.com/@rencora/cracking-mfa-with-evilproxy-how-executives-get-owned-e8d9db95086c
